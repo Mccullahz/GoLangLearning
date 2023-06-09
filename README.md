@@ -1,4 +1,3 @@
-# My Intro To GoLang 
+# Intro To GoLang 
 
-## This repo will likely contain many random files with several different levels of difficulty as I learn the language.
-
+## This repo serves as storage for several small projects that I am creating to learn Go 
